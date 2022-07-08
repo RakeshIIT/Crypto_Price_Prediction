@@ -16,6 +16,8 @@ After training the custom CNN model, its performance can be seen uing a tensorbo
 
 After running tensorboard --logdir logs/ command CLI, the outputs will be something like this:
 
+(This image is just for reference)
+
 ![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/64364295/178033158-10345c79-f096-4912-bce3-b874de016375.png)
 
 
